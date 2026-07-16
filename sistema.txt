@@ -2,3 +2,6 @@ Sistema da Loja
 Relatórios
 Cadastro de Produtos
 Cadastro de Clientes
+Cadastro de Pagamentos
+Cadastro de Diagnostico 
+Cadastro de Lelo
