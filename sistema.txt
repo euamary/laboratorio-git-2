@@ -1,4 +1,4 @@
 Sistema da Loja
 Relatórios
+Cadastro de Produtos
 Cadastro de Clientes
-
